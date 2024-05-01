@@ -31,12 +31,6 @@ Para atualizar o arquivo design.py basta acessar a pasta inter e rodar o comanad
 pyside6-uic inter/design.ui -o inter/design.py
 ```
 
-ou
-
-```powershell
-pyside6-uic inter/design.ui -o inter/design.py
-```
-
 ## Gerando executável
 Precisamos instalar o PyInstaller:
 
